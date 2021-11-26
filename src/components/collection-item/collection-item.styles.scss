@@ -21,12 +21,12 @@
       font-size: 18px;
   
       .name {
-        width: 90%;
+        justify-content: left;
         margin-bottom: 15px;
       }
   
       .price {
-        width: 10%;
+        justify-content: right;
       }
     }
   }
