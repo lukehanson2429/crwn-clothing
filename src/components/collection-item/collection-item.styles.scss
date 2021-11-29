@@ -21,12 +21,12 @@
       font-size: 18px;
   
       .name {
-        justify-content: left;
+        justify-content: flex-start;
         margin-bottom: 15px;
       }
   
       .price {
-        justify-content: right;
+        justify-content: flex-end;
       }
     }
   }
